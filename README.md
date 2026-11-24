@@ -1,4 +1,4 @@
-# G4meB∞st 🚀
+# EN G4meB∞st 🚀
 **Ultra-lightweight Windows 11 optimizer for gaming and everyday use**
 
 ---
