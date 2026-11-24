@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationManifest>App.manifest</ApplicationManifest>
+    <AssemblyName>G4meBoost</AssemblyName>
+    <RootNamespace>G4meBoost</RootNamespace>
+    <Version>1.0.0</Version>
+    <Authors>h4lfa</Authors>
+    <Company>h4lfa</Company>
+    <Product>G4meB∞st</Product>
+    <Copyright>© 2026 h4lfa</Copyright>
+    <Description>Windows 11 Gaming Optimizer by h4lfa</Description>
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>false</SelfContained>
+  </PropertyGroup>
+</Project>
